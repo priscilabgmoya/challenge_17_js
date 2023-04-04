@@ -15,7 +15,7 @@ if(!isNaN(cantidad_notas)  && cantidad_notas !== 0 ){
         }
     }
     resultado = (suma / cantidad_notas).toFixed(2); 
-    if(resultado > 6){
+    if(resultado >= 6){
         alert(`Esta Aprobado!. Promedio: ${resultado}`);
     }else{
         alert(`Esta Desaprobado!. Promedio: ${resultado}`);
