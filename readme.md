@@ -24,4 +24,4 @@ escribimos en la terminal la siguiente linea de codigo:
 git clone https://github.com/priscilabgmoya/challenge_17_js
 ```
 ## Autores 
-- Se realizo en grupo con participantes de la comsion 48i.
+- Se realizo en clases.
